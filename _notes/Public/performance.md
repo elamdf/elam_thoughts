@@ -1,7 +1,7 @@
 ---
 title: performance
 feed: show
-date: 07-21-2024
+date: 21-07-2024
 ---
 Performance has (sometimes in retrospect, sometimes in the moment) always been a big thing for me. I'm not quite sure why, nor do I know if I was born to perform (or if it's a coping mechanism for some vague/unknown stressor).
 
